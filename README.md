@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am Aditya K, an avid learner and a Software Developer. Reach out to me in the following space. 🌞
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-k-9165951aa/)](https://www.linkedin.com/in/aditya-k-9165951aa/))
+[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-k-9165951aa/)](https://www.linkedin.com/in/aditya-k-9165951aa/)
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white)
 
