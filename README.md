@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am Aditya K, an avid learner and a Software Developer. Reach out to me in the following space. 🌞
+I'm Aditya, an avid learner and an aspiring Software Developer.
+Reach out to me in the following space. 🌞
+
 https://www.linkedin.com/in/aditya-k-9165951aa/
 adityak2207@gmail.com
 
