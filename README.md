@@ -1,17 +1,27 @@
-### Hi there 👋
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fprogrammer&psig=AOvVaw2QEZ7BjYFcjLyCEym0FAJf&ust=1676577653509000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNDnz82omP0CFQAAAAAdAAAAABAE)">
- <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://img.freepik.com/free-vector/male-programmer-working-computer-office-wall-with-hanging-reminder-stickers-developer-creating-new-software-interface-coding-programming-system-administrator-designer-character_575670-1159.jpg?w=996&t=st=1676491059~exp=1676491659~hmac=9bddaddf191b7bd6cbf2170df3cb841d7096ccfdfb83ece7a2f7bd030bc7e014)">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+<img src="https://wallpapers.com/images/hd/cat-with-shades-cool-picture-lkenou4wsqrbib37.jpg" width="50%" height="50%">
 
-I'm Aditya, an avid learner and an aspiring Software Developer.
-Reach out to me in the following space. 🌞
+## About Me 👋
 
-https://www.linkedin.com/in/aditya-k-9165951aa/
-adityak2207@gmail.com
+I'm Aditya, an avid learner and an aspiring Software Developer 🌞.
 
-I love working on IOT, Python, C and C++ projects.
+<details open>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Python|
+|     2| C    |
+|     3| Selenium       |
+
+</details open>
+
+---
+> <i>It's lonely at the top.</i> ⛰
+
+— <i>Aditya The Narcissist</i>
+
+
+I love working on IOT, Python, C and C++ projects. Reach out to me adityak2207@gmail.com
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=adityak2207&count_private=true&show_icons=true&include_all_commits=true)
